@@ -1,0 +1,8 @@
+
+
+ :: Spring Boot   ::   (v${spring-boot.version})
+ :: Java          ::   (v${java.version})
+ :: Environment   ::   (${spring.profiles.active})
+ :: Server Port   ::   (${server.port})
+
+
